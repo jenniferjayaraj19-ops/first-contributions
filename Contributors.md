@@ -1253,6 +1253,6 @@
 - [Adrika T Kumar](https://github.com/abcd123-xyz)
 - [Sayan Dutta](https://github.com/sayan1112)
 - [peanut-butter-wafer-lover](https://github.com/peanut-butter-wafer-lover)
-- [Jennifer J] (https://github.com/jenniferjayaraj19-ops)
+- [Jennifer Jayaraj] (https://github.com/jenniferjayaraj19-ops)
 
 
